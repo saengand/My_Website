@@ -1,0 +1,70 @@
+body{
+	/*background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("home1.jpg");*/
+	/*background-color: pink;*/
+	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("bg-2.jpg") ;
+	/*background-image:  url("bg-2.jpg") ;*/
+		color: white;
+}
+
+/*about.html*/
+
+.header1{
+	/*background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("home1.jpg");*/
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+.header1 ul{
+	list-style: none;
+	padding: 150px 90px 100px 90px;
+}
+button{
+	margin-left: 90px;
+	margin-top: 0px;
+	border-radius: 25px;
+	height: 5%;
+	width: 15%;
+}
+button:hover{
+	background-color: orange;
+}
+
+/*.myhead{
+	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("home1.jpg") ;
+}*/
+/*about*/
+.header2 h1,h3{
+	
+	color: white;
+}
+.header3 h1,h3{
+	
+	color: white;
+}
+
+.header2{
+	width: 780px;
+	float: left;
+	
+}
+.header3{
+	width: 780px;
+	float: right;
+}
+/*.header4 h1{
+	color: black;
+}
+.header4{
+	float: left;
+	width: 780px;
+}*/
+
+.second img{
+	float: right;
+	height: 300px;	
+	border-radius: 50%;
+	margin-top: 170px;
+	margin-right: 390px;
+	border: solid white;
+
+}
